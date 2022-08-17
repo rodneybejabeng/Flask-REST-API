@@ -1,3 +1,5 @@
 ### description
 
-Flask REST API that can GET, POST, PUT, and DELETE YouTube videos.
+Example Flask REST API, created for learning purposes.
+
+Initializes a database with YouTube videos using SQLAlachemy and implements the HTTPS methods GET, POST, PUT, and DELETE.
